@@ -8,7 +8,7 @@
 - I'm currently learning **Deep Learning**  
 - 📫 How to reach me: [tiwariaashutosh70@gmail.com](mailto:tiwariaashutosh70@gmail.com)  
 - 🔗 Checkout my portfolio: [My Portfolio](https://main.duzr5mzgerxy7.amplifyapp.com/)  
-- 🎥 Watch my animation: [![Watch Video](https://img.youtube.com/vi/ivbQ1N8qTk4/0.jpg)](https://youtu.be/ivbQ1N8qTk4?si=Jlf_YxfzChKgjfhS)
+
   
 
 ---
