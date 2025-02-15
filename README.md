@@ -15,10 +15,10 @@
 
 ### 🔗 Connect with me:  
 <p align="center">
-  <a href="[YOUR_LINKEDIN_PROFILE_LINK](https://www.linkedin.com/in/aashutosh-tiwari-7a722b262/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[YOUR_INSTAGRAM_PROFILE_LINK](https://www.instagram.com/aashu_768_/?igsh=OGQ5ZDc2ODk2ZA%3D%3D#)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="[YOUR_TWITTER_PROFILE_LINK](https://x.com/atofficial768?t=F3kwPmDkSyXz-GG5iB70YQ&s=09)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="[YOUR_YOUTUBE_CHANNEL_LINK](https://www.youtube.com/@atstatus2213)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/aashutosh-tiwari-7a722b262/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/aashu_768_/?igsh=OGQ5ZDc2ODk2ZA%3D%3D#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/atofficial768?t=F3kwPmDkSyXz-GG5iB70YQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@atstatus2213" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
