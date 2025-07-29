@@ -2,14 +2,24 @@
 
 <h3 align="center"><em>"Life is a journey, not a destination"</em></h3>
 
----
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h3>🌱 About Me:</h3>
+      <ul>
+        <li>I'm currently working on a <strong>Medical Report Analysis System</strong></li>
+        <li>I’m a <strong>4th-year student</strong> exploring the tech world and looking for a good opportunity</li>
+        <li>📫 Reach me at: <a href="mailto:tiwariaashutosh70@gmail.com">tiwariaashutosh70@gmail.com</a></li>
+        <li>🔗 Checkout my portfolio: <a href="https://main.duzr5mzgerxy7.amplifyapp.com/" target="_blank">My Portfolio</a></li>
+      </ul>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://files.catbox.moe/1l3esw.gif" alt="Arc Reactor GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### 🌱 About Me:  
-- I'm currently learning **Deep Learning**  
-- 📫 How to reach me: [tiwariaashutosh70@gmail.com](mailto:tiwariaashutosh70@gmail.com)  
-- 🔗 Checkout my portfolio: [My Portfolio](https://main.duzr5mzgerxy7.amplifyapp.com/)  
 
-  
 
 ---
 
@@ -27,6 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/-Machine%20Learning-FCC624?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -41,8 +52,15 @@
 
 ---
 
-### 📊 Stats:  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHU7688&layout=compact&theme=tokyonight" alt="Most Used Languages" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AASHU7688&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHU7688&layout=compact&theme=tokyonight" alt="Most Used Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AASHU7688&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="40%"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AASHU7688&theme=radical" alt="GitHub Streak"/>
 </p>
