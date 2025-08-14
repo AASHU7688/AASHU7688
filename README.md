@@ -7,7 +7,7 @@
     <td align="left" width="60%">
       <h3>🌱 About Me:</h3>
       <ul>
-        <li>I'm currently working on a <strong>Medical Report Analysis System</strong></li>
+        <li>I'm currently working on a <strong>AI Agents</strong></li>
         <li>I’m a <strong>4th-year student</strong> exploring the tech world and looking for a good opportunity</li>
         <li>📫 Reach me at: <a href="mailto:tiwariaashutosh70@gmail.com">tiwariaashutosh70@gmail.com</a></li>
         <li>🔗 Checkout my portfolio: <a href="https://main.duzr5mzgerxy7.amplifyapp.com/" target="_blank">My Portfolio</a></li>
